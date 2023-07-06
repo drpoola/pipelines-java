@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/aksacrdemodatha/Azure-official-training/_apis/build/status%2Fdrpoola.pipelines-java?branchName=main)](https://dev.azure.com/aksacrdemodatha/Azure-official-training/_build/latest?definitionId=7&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
